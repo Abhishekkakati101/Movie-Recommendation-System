@@ -13,5 +13,5 @@ is the “one out of C” representation
 of y. From the energy function, we assign probabilities to values of y, x and h as follows:
 
 <p align = 'center'>
-<img src =''>
+<img src ='https://github.com/Abhishekkakati101/Movie-Recommendation-System/blob/main/Assets/bltz2.PNG'>
 </p>
