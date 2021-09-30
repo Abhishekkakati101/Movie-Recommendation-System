@@ -26,5 +26,5 @@ representation of y), and vice versa. All the required conditional distributions
 When conditioning on the visible layer, we have
 
 <p align = 'center'>
-<img src ='https://github.com/Abhishekkakati101/Movie-Recommendation-System/blob/main/Assets/bltz2.PNG'>
+<img src ='https://github.com/Abhishekkakati101/Movie-Recommendation-System/blob/main/Assets/bltz3.PNG'>
 </p>
