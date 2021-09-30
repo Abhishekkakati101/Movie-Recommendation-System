@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 
 <p align = 'center' height ='500px' weidth ='200'>
-<img src ='https://d3i71xaburhd42.cloudfront.net/170f822ec7d4ebb44991c5857229249a1e65fe43/1-Figure3-1.png'>
+<img src ='boltz.png'>
 </p>
 
 Movie Recommendation System uses the Restricted Boltzmann Machine model to recommend either the customer would like the movie on the basic of ratings and reviews.
