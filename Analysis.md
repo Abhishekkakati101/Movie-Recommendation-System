@@ -15,3 +15,16 @@ of y. From the energy function, we assign probabilities to values of y, x and h 
 <p align = 'center'>
 <img src ='https://github.com/Abhishekkakati101/Movie-Recommendation-System/blob/main/Assets/bltz2.PNG'>
 </p>
+
+where Z is a normalization constant (also called partition function) which ensures that Equation 1 is
+a valid probability distribution. We will assume that the elements of x are binary, but extensions to
+real-valued units on bounded or unbounded intervals are straightforward.
+Unfortunately, computing p(y,x,h) or p(y,x) is typically intractable. However, it is possible to
+sample from the ClassRBM, using Gibbs sampling, that is, alternating between sampling a value
+for the hidden layer given the current value of the visible layer  (made of variables x and the ey
+representation of y), and vice versa. All the required conditional distributions are very simple.
+When conditioning on the visible layer, we have
+
+<p align = 'center'>
+<img src ='https://github.com/Abhishekkakati101/Movie-Recommendation-System/blob/main/Assets/bltz2.PNG'>
+</p>
